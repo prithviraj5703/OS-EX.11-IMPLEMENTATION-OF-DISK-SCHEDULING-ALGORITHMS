@@ -44,10 +44,10 @@ Thus the implementation of the program for first come first serve disc schedulin
 
 # 2.DISK SCHEDULING-SHORTEST SEEK TIME FIRST
 
-#AIM:
+# AIM:
 To write a program for the first come first serve method of disc scheduling.
 
-#Description:
+# Description:
 Shortest seek time first (SSTF) algorithm selects the disk I/O request which requires the least disk arm movement from its current position regardless of the direction.
 
 # Program:
